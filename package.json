@@ -1,0 +1,26 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "A basic Node.js MVC application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linnnux/nodeMVC"
+  },
+  "author": "Your Name",
+  "license": "GNU GPLv3",
+  "devDependencies": {},
+  "keywords": [],
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "open": "^8.4.1",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
